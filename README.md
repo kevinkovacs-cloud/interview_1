@@ -1,4 +1,3 @@
-Ejemplo de entrevista tecnica para Data Scientist Jr.
-- Graphics ipynb (archivo .html para visualizar graficos en EDA) -> Descargar archivo y abrirlo en navegador.
-- Data (carpeta con archivos csv)
-- Notebook (archivo .ipynb sin graficos)
+- Graphics.ipynb (HTML file for viewing EDA graphs) -> Download the file and open it in a browser.
+- Data (Folder containing CSV files)
+- Notebook (Notebook file .ipynb without graphs)
